@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://urawoage.github.io/HvF/sitemap_index.txt
+Sitemap: https://urawoage.github.io/hnb/sitemap_index.txt
+Sitemap: https://urawoage.github.io/mIt/sitemap_index.txt
+Sitemap: https://urawoage.github.io/wMK/sitemap_index.txt
